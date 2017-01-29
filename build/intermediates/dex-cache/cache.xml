@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6cbcfece6b44af54815c7fe469182f136e692039/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e587d109c5c0aa442e6020b613566e0941616668/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_aac659c146ec7afa4ae2f723b2cfd47c6bf12e29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_fc57c69144739d7252a880ac0f4258430100d739/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/beta23-noconnect-2.20b/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eed3cdbe6aacd905b1b4a1c7abab345ad051e967">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.spotify.sdk-spotify-auth-beta23-noconnect-2.20b_6393c461c2bfd2513eb3254b31ed6a29f3e27964/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-player/beta23-noconnect-2.20b/jars/libs/jnihelpers-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62759ecf4e0678d82d4c46e2fa76eed4ea7e1426">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/jnihelpers-1.0_b0d037aa4a04931062277c529731c0525a4c14e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_12d1084267b27398b7c6ef39852766d05274a4a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_6e21c4eea69d52322ef27f1a610b3f65c36d8696/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-player/beta23-noconnect-2.20b/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="823eb42da71365f2ddab484b52a0693417bc735f">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.spotify.sdk-spotify-player-beta23-noconnect-2.20b_1bfd774183678ad21e265f18a283797873ba1cc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_587cbcc23c6c0a5606878237df993d0b79b9979a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824dea5cef68d4920644461f15be40fcd40cd91">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d3eafb185deffa1fbed3e79d820655ee22aa33ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_0d0a04c2723891980d1e96e2696a217f729f6741/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_f79fa0002c45dc84c1e28f0b882a871477d98feb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2a30b9be42fc9f265400e2582657aefbc505bd84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/libs/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/2/picasso-2.5.2_d0d255aa54ac27be1da0c89a6bde012ef5f27058/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb54358011eff79506d0a7d27bbc0feaa5b9649">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d0baefa71d29c2707b619a0f57962f6d3f518580/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e1971e7017fb1bfc3224aa36804b1fbd734e2ba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_80d1ee904b8abe8f48603dd0f5b4fe591903ac04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_707f97f7da1af126506e9c697a80f52df788637c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a78287e08ea7b78efebfadbfbf41ecc989886848/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/Saarthak/AndroidStudioProjects/Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_0f1e304ce24b752e330ce9acd67586cd07481edd/classes.dex" />
+    </item>
+
+</items>
